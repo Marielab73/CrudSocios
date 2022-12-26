@@ -1,0 +1,52 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/Usuario/.m2/repository/javax/javaee-web-api/7.0/javaee-web-api-7.0.jar;C:/Users/Usuario/.m2/repository/mysql/mysql-connector-java/8.0.28/mysql-connector-java-8.0.28.jar;C:/Users/Usuario/.m2/repository/com/google/protobuf/protobuf-java/3.11.4/protobuf-java-3.11.4.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'C:/Users/Usuario/Documents/NetBeansProjects/CrudSocios/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Usuario/Documents/NetBeansProjects/CrudSocios/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'CrudSocios 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/7/docs/api' 'C:/Users/Usuario/Documents/NetBeansProjects/CrudSocios/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'CrudSocios 1.0-SNAPSHOT API'
+config
+controlador
+modelo
+'C:/Users/Usuario/Documents/NetBeansProjects/CrudSocios/src/main/java/config/Conexion.java'
+'C:/Users/Usuario/Documents/NetBeansProjects/CrudSocios/src/main/java/controlador/SociosController.java'
+'C:/Users/Usuario/Documents/NetBeansProjects/CrudSocios/src/main/java/modelo/Socios.java'
+'C:/Users/Usuario/Documents/NetBeansProjects/CrudSocios/src/main/java/modelo/SociosDAO.java'
+C:\Users\Usuario\.m2\repository\javax\javaee-web-api\7.0\javaee-web-api-7.0.jar = 1671476098656
+C:\Users\Usuario\.m2\repository\mysql\mysql-connector-java\8.0.28\mysql-connector-java-8.0.28.jar = 1671477848291
+C:\Users\Usuario\.m2\repository\com\google\protobuf\protobuf-java\3.11.4\protobuf-java-3.11.4.jar = 1671477848596
+C:\Users\Usuario\Documents\NetBeansProjects\CrudSocios\src\main\java = 1671719047751
+C:\Users\Usuario\Documents\NetBeansProjects\CrudSocios\target\apidocs\allclasses-frame.html = 1672096835827
+C:\Users\Usuario\Documents\NetBeansProjects\CrudSocios\target\apidocs\allclasses-noframe.html = 1672096835827
+C:\Users\Usuario\Documents\NetBeansProjects\CrudSocios\target\apidocs\constant-values.html = 1672096835752
+C:\Users\Usuario\Documents\NetBeansProjects\CrudSocios\target\apidocs\deprecated-list.html = 1672096835824
+C:\Users\Usuario\Documents\NetBeansProjects\CrudSocios\target\apidocs\help-doc.html = 1672096835834
+C:\Users\Usuario\Documents\NetBeansProjects\CrudSocios\target\apidocs\index-all.html = 1672096835818
+C:\Users\Usuario\Documents\NetBeansProjects\CrudSocios\target\apidocs\index.html = 1672096835829
+C:\Users\Usuario\Documents\NetBeansProjects\CrudSocios\target\apidocs\overview-frame.html = 1672096835724
+C:\Users\Usuario\Documents\NetBeansProjects\CrudSocios\target\apidocs\overview-summary.html = 1672096835831
+C:\Users\Usuario\Documents\NetBeansProjects\CrudSocios\target\apidocs\overview-tree.html = 1672096835809
+C:\Users\Usuario\Documents\NetBeansProjects\CrudSocios\target\apidocs\package-list = 1672096835710
+C:\Users\Usuario\Documents\NetBeansProjects\CrudSocios\target\apidocs\script.js = 1672096835837
+C:\Users\Usuario\Documents\NetBeansProjects\CrudSocios\target\apidocs\serialized-form.html = 1672096835759
+C:\Users\Usuario\Documents\NetBeansProjects\CrudSocios\target\apidocs\stylesheet.css = 1672096835836
